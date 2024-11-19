@@ -1,0 +1,5 @@
+1.seaborn
+2.keras
+3.pillow
+4.tenserflow
+5.tenserflow_hub
